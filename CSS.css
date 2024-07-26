@@ -1,0 +1,23 @@
+header{
+    pheader{
+        color: white;
+        font-size: 110px;
+    }
+    text-align: center;
+    font-style: italic;
+    background-color: black;
+}
+body{
+    background-color: red;
+    pbody{
+        color: white;
+    }
+    font-style: oblique;
+    
+}
+
+footer{
+    background-color: lightgrey;
+    color: red;
+    text-align: center;
+}
